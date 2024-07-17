@@ -34,7 +34,7 @@ To install the linux kernel module after compilation, run the following command 
 ```sudo insmod partb_2_8.ko```
 
 ## How to Use
-See clinet.c for an example of how to use the installed linux kernel module through *ioctl* system calls.
+See client.c for an example of how to use the installed linux kernel module through *ioctl* system calls.
 
 ## Uninstallation
 To uninstall the linux kernel module, run the following command:
